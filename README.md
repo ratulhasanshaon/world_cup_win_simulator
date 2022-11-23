@@ -1,5 +1,12 @@
-# world_cup_simulator
+# world_cup_win_simulator
 
+
+
+
+
+
+## installation
+```
 create virtual environment (python3 -m venv env)
 
 active virtual environment (source ./env/bin/activate)
@@ -7,3 +14,4 @@ active virtual environment (source ./env/bin/activate)
 install dependencies (pip install -r requirements.txt) 
 
 run code (python world_cup2.py)
+```
