@@ -22,7 +22,7 @@ here is the snipshot of the models
 ![LogisticRegression](../master/Logistic Regression.png)
 
 # OUTPUT
-Prediction Points on Data
+## Prediction Points on Data
 ![Data](../master/data.png)
 ![PredictionPoints](../master/prediction_points.png)
 
