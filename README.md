@@ -13,7 +13,7 @@ Random Forest
 ![Random Forest](../master/Random Forest.png)
 
 MLPClassifier
-!(../master/MLPClassifier.png)
+![MLPClassifier](../master/MLPClassifier.png)
 
 KNeighborsClassifier
 (code_snip/KNeighborsClassifier.png)
