@@ -16,7 +16,7 @@ MLPClassifier
 !(../master/code_snip/MLPClassifier.png)
 
 KNeighborsClassifier
-!(master/code_snip/KNeighborsClassifier.png)
+(master/code_snip/KNeighborsClassifier.png)
 
 Logistic Regression
 !(../master/code_snip/Logistic Regression.png)
