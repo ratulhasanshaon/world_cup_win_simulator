@@ -9,27 +9,27 @@ The idea is to separete the performance of each Team as Home or Away.
 
 here is the snipshot of the models
 
-Random Forest
-![Random Forest](../master/Random Forest.png)
+## Random Forest
+![RandomForest](../master/Random Forest.png)
 
-MLPClassifier
+## MLPClassifier
 ![MLPClassifier](../master/MLPClassifier.png)
 
-KNeighborsClassifier
-(code_snip/KNeighborsClassifier.png)
+## KNeighborsClassifier
+![KNeighborsClassifier](../master/KNeighborsClassifier.png)
 
-Logistic Regression
-!(../master/code_snip/Logistic Regression.png)
+## Logistic Regression
+![LogisticRegression](../master/Logistic Regression.png)
 
 # OUTPUT
 Prediction Points on Data
-!(../master/code_snip/data.png)
-!(../master/code_snip/prediction_points.png)
+![Data](../master/data.png)
+![PredictionPoints](../master/prediction_points.png)
 
 # Prediction 1
-!(../master/code_snip/prediction_1.png)
+![P1](../master/prediction_1.png)
 # Prediction 1
-!(../master/code_snip/prediction_2.png)
+![P2](../master//prediction_2.png)
 
 
 ## installation
