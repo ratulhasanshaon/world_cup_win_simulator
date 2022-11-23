@@ -9,7 +9,7 @@ The idea is to separete the performance of each Team as Home or Away.
 
 here is the snipshot of the models
 Random Forest
-!(../master/code_snip/Random Forest.png)
+![](../master/code_snip/Random Forest.png)
 
 MLPClassifier
 !(../master/code_snip/MLPClassifier.png)
